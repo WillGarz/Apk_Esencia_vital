@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="md_purple_500">#9c27b0</color>
+    <color name="md_deep_purple_500">#673ab7</color>
+    <color name="md_deep_purple_300">#9575cd</color>
+    <color name="md_deep_purple_400">#7e57c2</color>
+</resources>
